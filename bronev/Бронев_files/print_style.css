@@ -1,0 +1,30 @@
+body {
+    -webkit-print-color-adjust: exact;
+}
+.print-order-text {
+    line-height: 1;
+}
+
+.report-header {
+    border-bottom: 1px solid gray;
+}
+
+.report-underline {
+    text-transform: lowercase;
+    font-size: 0.8em;
+    color: #6c757d !important;
+}
+
+.print-order-footer-text {
+    font-size: 0.8em;
+    line-height: 1;
+    color: #6c757d !important;
+}
+@media print {
+    .table tr.table-secondary > td {
+        background-color: #d6d8db !important;
+    }
+    .print-table td {
+        font-size: 1.3rem !important;
+    }
+}
