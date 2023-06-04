@@ -2,7 +2,7 @@
 // Проверяем, была ли нажата кнопка "Обновить данные"
 
     // Имя файла базы данных
-    $db_file = '../admin/mydatabase.db';
+    $db_file = 'mydatabase.db';
 
     // URL-адрес HTML-страницы с таблицей
     $url = 'http://' . $_SERVER['SERVER_NAME'] . '/bronev/in.php';
@@ -41,9 +41,6 @@
     // Выводим данные на экран
     foreach ($data as $row) {
         //echo "trip_from " . $row[0] . " date_time " .  $row[1] . " vehicle " . $row[2] . " free_seats " . $row[3] . " status " . $row[4] . '<br>';
-
-    
-
         // Проверяем, есть ли уже такие данные в таблице
         $trip = $row[0];
         $date_time = $row[1];
@@ -63,9 +60,6 @@
         }
 
     }
-
     // Закрываем соединение с базой данных
     $db->close();
-
-
 ?>

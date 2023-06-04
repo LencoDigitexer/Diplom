@@ -1,7 +1,7 @@
     <?php
-		include('..\admin\update_def.php');
+		include('update_def.php');
 		// Имя файла базы данных
-		$db_file = '..\admin\mydatabase.db';
+		$db_file = 'mydatabase.db';
 
 		// Создаем объект базы данных SQLite3
 		$db = new SQLite3($db_file);
@@ -16,6 +16,36 @@
 			}
 			if ($month == "мая"){
 				return $day.".05";
+			}
+			if ($month == "июня"){
+				return $day.".06";
+			}
+			if ($month == "июля"){
+				return $day.".07";
+			}
+			if ($month == "авг"){
+				return $day.".08";
+			}
+			if ($month == "сен"){
+				return $day.".09";
+			}
+			if ($month == "окт"){
+				return $day.".10";
+			}
+			if ($month == "ноя"){
+				return $day.".11";
+			}
+			if ($month == "дек"){
+				return $day.".12";
+			}
+			if ($month == "янв"){
+				return $day.".01";
+			}
+			if ($month == "фев"){
+				return $day.".02";
+			}
+			if ($month == "марта"){
+				return $day.".03";
 			}
 		}
 

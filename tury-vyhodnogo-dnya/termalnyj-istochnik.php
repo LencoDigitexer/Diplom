@@ -3,10 +3,10 @@
 <head>
 	
 
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    
-    <meta name="format-detection" content="telephone=no">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	
+	<meta name="format-detection" content="telephone=no">
 
 	<meta name="csrf-token" content="Ur7CUmfGTtG2ZlBUbNALKyHo5LawBoCvj0VIzsbx">
 
@@ -17,12 +17,12 @@
 	<link rel="canonical" href="termalnyj-istochnik.html"/>
 
 	<link rel="icon" href="../favicon.ico">
-    <link rel="apple-touch-icon" sizes="120x120" href="../apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="../favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="../favicon-16x16.png">
-    <meta name="theme-color" content="#ffffff">
-    <link rel="stylesheet" href="../css/main.min.css@v=4.css">
-    <link rel="stylesheet" href="../css/dop.css@v=4.css">
+	<link rel="apple-touch-icon" sizes="120x120" href="../apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="../favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="../favicon-16x16.png">
+	<meta name="theme-color" content="#ffffff">
+	<link rel="stylesheet" href="../css/main.min.css@v=4.css">
+	<link rel="stylesheet" href="../css/dop.css@v=4.css">
 
 	
 </head>
@@ -32,16 +32,16 @@
 	
 
 	<header class="header">
-        <div class="container flb-csb">
-            <div class="header__lb flb-cs">
+		<div class="container flb-csb">
+			<div class="header__lb flb-cs">
 				<a href="../index.html" class="header__logo">
-        <picture>
-            <source srcset="/img/logo-header-min.svg" media="(max-width: 992px)">
-            <img src="../img/logo-header.svg" alt="">
-        </picture>
-    </a>
+		<picture>
+			<source srcset="/img/logo-header-min.svg" media="(max-width: 992px)">
+			<img src="../img/logo-header.svg" alt="">
+		</picture>
+	</a>
 
-                <ul class="header__menu">
+				<ul class="header__menu">
 					<li class="dropdown">
 						<a href="../catalog.html">Туры и экскурсии</a>
 						<ul>
@@ -61,9 +61,9 @@
 </li>
 													</ul>
 					</li>
-                    <li class="dropdown">
+					<li class="dropdown">
 						<a href="../informaciya-o-nas.html">О нас</a>
-                        <ul>
+						<ul>
 							<li><a href="../informaciya-o-nas.html">О компании</a>
 </li>
 							<li><a href="../otzyvy.html">Отзывы</a>
@@ -73,8 +73,8 @@
 							<li><a href="../novosti.html">Новости</a>
 </li>
 
-                        </ul>
-                    </li>
+						</ul>
+					</li>
 					<li><a href="../fotogalereya.html">Фотогаллерея</a>
 </li>
 					<li class="hide-lg"><a href="../dostoprimechatelnosti.html">Достопримечательности</a>
@@ -83,55 +83,55 @@
 </li>
 					<li><a href="../kontakty.html">Контакты</a>
 </li>
-                </ul>
-            </div>
-            <div class="header__rb flb-cs">
-                <div class="header__connection">
-                    <div class="header__connection-top flb-cs">
-                        <div class="phones-wrapp">
-                            <a href="tel:+78652722400" class="phone">7 (8652) 722-400</a>
-                            <a href="https://api.whatsapp.com/send?phone=+79624405767" class="phone">+79624405767</a>
-                        </div>
-                        <i class="icon-angle-down"></i>
-                    </div>
-                    <div class="header__connection-bottom">
-                        <div class="header__connection-item mb15">
-                            <div class="item-title">Электронная почта:</div>
-                            <a href="mailto:stavturist26@mail.ru" class="item-text">stavturist26@mail.ru</a>
-                        </div>
-                        <div class="header__connection-item mb40">
-                            <div class="item-title">Дополнительный телефон:</div>
-                            <a href="tel:+88652722401" class="item-text">8 (8652) 722-401</a>
-                        </div>
-                        <div class="header__connection-item mb20">
-                            <div class="item-title">Адрес главного офиса:</div>
-                            <div class="item-text">Ставрополь, ул. 50 лет ВЛКСМ, 16а, 3 этаж, 301 офис</div>
-                        </div>
-                        <div class="header__connection-row flb-ss mb20">
-                            <div class="header__connection-item">
-                                <div class="item-title">Пн - Пт :</div>
-                                <div class="item-text">9:00 - 18:00</div>
-                            </div>
-                            <div class="header__connection-item">
-                                <div class="item-title">Сб - Вс :</div>
-                                <div class="item-text">Выходные</div>
-                            </div>
-                        </div>
-                        <div class="social">
-                            <a href="https://youtube.com/" class="icon-youtube-r"></a>
-                            <a href="https://t.me/turistkavkaz" class="icon-telegram"></a>
-                                                    </div>
-                    </div>
-                </div>
-                <a href="https://api.whatsapp.com/send?phone=+79624405767" class="header__whatsapp-mob icon-whatsapp"></a>
-                <a href="tel:+78652722400" class="header__phone-mob icon-phone-call"></a>
-                <div class="burger__menu">
-                    <button class="header__burger flb-cc">
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                    </button>
-                </div>
+				</ul>
+			</div>
+			<div class="header__rb flb-cs">
+				<div class="header__connection">
+					<div class="header__connection-top flb-cs">
+						<div class="phones-wrapp">
+							<a href="tel:+78652722400" class="phone">7 (8652) 722-400</a>
+							<a href="https://api.whatsapp.com/send?phone=+79624405767" class="phone">+79624405767</a>
+						</div>
+						<i class="icon-angle-down"></i>
+					</div>
+					<div class="header__connection-bottom">
+						<div class="header__connection-item mb15">
+							<div class="item-title">Электронная почта:</div>
+							<a href="mailto:stavturist26@mail.ru" class="item-text">stavturist26@mail.ru</a>
+						</div>
+						<div class="header__connection-item mb40">
+							<div class="item-title">Дополнительный телефон:</div>
+							<a href="tel:+88652722401" class="item-text">8 (8652) 722-401</a>
+						</div>
+						<div class="header__connection-item mb20">
+							<div class="item-title">Адрес главного офиса:</div>
+							<div class="item-text">Ставрополь, ул. 50 лет ВЛКСМ, 16а, 3 этаж, 301 офис</div>
+						</div>
+						<div class="header__connection-row flb-ss mb20">
+							<div class="header__connection-item">
+								<div class="item-title">Пн - Пт :</div>
+								<div class="item-text">9:00 - 18:00</div>
+							</div>
+							<div class="header__connection-item">
+								<div class="item-title">Сб - Вс :</div>
+								<div class="item-text">Выходные</div>
+							</div>
+						</div>
+						<div class="social">
+							<a href="https://youtube.com/" class="icon-youtube-r"></a>
+							<a href="https://t.me/turistkavkaz" class="icon-telegram"></a>
+													</div>
+					</div>
+				</div>
+				<a href="https://api.whatsapp.com/send?phone=+79624405767" class="header__whatsapp-mob icon-whatsapp"></a>
+				<a href="tel:+78652722400" class="header__phone-mob icon-phone-call"></a>
+				<div class="burger__menu">
+					<button class="header__burger flb-cc">
+						<span></span>
+						<span></span>
+						<span></span>
+					</button>
+				</div>
 				<div class="header__lk flb-cs">
 											<a href="../login.html" class="header__lk flb-cs">
 							<svg width="52" height="52" fill="none" xmlns="http://www.w3.org/2000/svg"><g opacity=".1"><circle cx="26" cy="26" r="22.75" fill="#fff"/><path d="M43.467 40.511A22.735 22.735 0 103.25 26a22.586 22.586 0 005.283 14.51l-.033.028c.114.136.244.253.361.388.146.167.304.325.455.487.455.494.923.969 1.414 1.414.15.137.304.264.455.393.52.449 1.054.875 1.609 1.271.071.049.136.112.208.163v-.02a22.59 22.59 0 0026 0v.02c.071-.05.134-.114.208-.163a23.512 23.512 0 001.608-1.27c.151-.13.306-.259.455-.394.491-.447.96-.92 1.414-1.414.151-.162.307-.32.455-.487.115-.135.247-.252.36-.39l-.035-.026zM26 13a7.312 7.312 0 110 14.624A7.312 7.312 0 0126 13zM13.011 40.51a8.118 8.118 0 018.114-8.011h9.75a8.118 8.118 0 018.114 8.011 19.402 19.402 0 01-25.978 0z" fill="#36445F"/></g></svg>
@@ -141,14 +141,14 @@
 						</div>
 									</div>
 
-            </div>
-        </div>
-        <div class="header__nav">
-            <div class="container">
-                
-            </div>
-        </div>
-    </header>
+			</div>
+		</div>
+		<div class="header__nav">
+			<div class="container">
+				
+			</div>
+		</div>
+	</header>
 	
 	
 	<section class="main__mps tour-detail no-before">
@@ -329,8 +329,8 @@
 				
 		<div class="container">
 			<a href="../index.html" class="footer__logo mobile">
-        <img src="../img/logo-footer.svg" alt="">
-    </a>
+		<img src="../img/logo-footer.svg" alt="">
+	</a>
 
 			<div class="footer__top flb-sb">
 				<div class="footer__box flb-sb">
@@ -417,8 +417,8 @@
 			</div>
 			<div class="footer__bottom flb-ss">
 				<a href="../index.html" class="footer__logo">
-        <img src="../img/logo-footer.svg" alt="">
-    </a>
+		<img src="../img/logo-footer.svg" alt="">
+	</a>
 
 				<div class="footer__wrapp">
 					<div class="footer__copy-title">© 2012-2023, Турист - Ставропольское бюро путешествий, stavturist.ru</div>
@@ -546,7 +546,7 @@
 		</div>
 		<div class="popup__tour popup">
 			<a class="popup__close flb-cc icon-close"></a>
-        	<div class="popup__tour-block" id="popup_order">
+			<div class="popup__tour-block" id="popup_order">
 				
 			</div>
 			<div class="popup__tour-bottom">
@@ -781,6 +781,6 @@
   gtag('config', 'G-R6S02X34S5');
 </script>
 <!-- Yandex.Metrika counter --> <script type="text/javascript" > (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(83625523, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true }); </script> <noscript><div><img src="https://mc.yandex.ru/watch/83625523" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
-<script src="https://code-ya.jivosite.com/widget/evGUcL7Dej" async></script> <script type="text/javascript" src="script.js"></script>
+<script src="https://code-ya.jivosite.com/widget/evGUcL7Dej" async></script> 
 	</body>
 </html>
